@@ -2,20 +2,11 @@
 
 A simple URL shortener built using Flask, SQLite, and Base64 encoding.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 Check out a video demonstration of the URL shortener in action: [Demo Video]([link-to-your-demo-video](https://github.com/Poras-oss/URL-Shortner/blob/master/urlshortner.wmv))
 
-[![Demo Video](demo_thumbnail.png)]([link-to-your-demo-video](https://github.com/Poras-oss/URL-Shortner/blob/master/urlshortner.wmv))
+[![Demo Video]([link-to-your-demo-video](https://github.com/Poras-oss/URL-Shortner/blob/master/urlshortner.wmv))
 
 ## Features
 
